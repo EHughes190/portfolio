@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9d0bdba3.css",
+    "main.css": "/portfolio/static/css/main.406b051e.css",
     "main.js": "/portfolio/static/js/main.78ef799c.js",
     "static/media/food-and-stuff.png": "/portfolio/static/media/food-and-stuff.313ea6adc157f0881dac.png",
     "static/media/next-news.png": "/portfolio/static/media/next-news.afb9bde4ac0a1287a02f.png",
@@ -10,11 +10,11 @@
     "static/media/js-calculator.png": "/portfolio/static/media/js-calculator.31ff0c44f1cb37ea37c5.png",
     "static/media/yelp-restaurant.png": "/portfolio/static/media/yelp-restaurant.e528f4acfe6a25446bc1.png",
     "index.html": "/portfolio/index.html",
-    "main.9d0bdba3.css.map": "/portfolio/static/css/main.9d0bdba3.css.map",
+    "main.406b051e.css.map": "/portfolio/static/css/main.406b051e.css.map",
     "main.78ef799c.js.map": "/portfolio/static/js/main.78ef799c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d0bdba3.css",
+    "static/css/main.406b051e.css",
     "static/js/main.78ef799c.js"
   ]
 }
