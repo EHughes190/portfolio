@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d0bdba3.css",
-    "main.js": "/static/js/main.f7f98ac8.js",
-    "static/media/food-and-stuff.png": "/static/media/food-and-stuff.313ea6adc157f0881dac.png",
-    "static/media/next-news.png": "/static/media/next-news.afb9bde4ac0a1287a02f.png",
-    "static/media/punk-api.png": "/static/media/punk-api.9dca26502c0b3703d17f.png",
-    "static/media/go.png": "/static/media/go.7e110e7479e2e5eb81d1.png",
-    "static/media/morse-translator.png": "/static/media/morse-translator.164c40ed4a6dbca0c7aa.png",
-    "static/media/js-calculator.png": "/static/media/js-calculator.31ff0c44f1cb37ea37c5.png",
-    "static/media/yelp-restaurant.png": "/static/media/yelp-restaurant.e528f4acfe6a25446bc1.png",
-    "index.html": "/index.html",
-    "main.9d0bdba3.css.map": "/static/css/main.9d0bdba3.css.map",
-    "main.f7f98ac8.js.map": "/static/js/main.f7f98ac8.js.map"
+    "main.css": "/portfolio/static/css/main.9d0bdba3.css",
+    "main.js": "/portfolio/static/js/main.78ef799c.js",
+    "static/media/food-and-stuff.png": "/portfolio/static/media/food-and-stuff.313ea6adc157f0881dac.png",
+    "static/media/next-news.png": "/portfolio/static/media/next-news.afb9bde4ac0a1287a02f.png",
+    "static/media/punk-api.png": "/portfolio/static/media/punk-api.9dca26502c0b3703d17f.png",
+    "static/media/go.png": "/portfolio/static/media/go.7e110e7479e2e5eb81d1.png",
+    "static/media/morse-translator.png": "/portfolio/static/media/morse-translator.164c40ed4a6dbca0c7aa.png",
+    "static/media/js-calculator.png": "/portfolio/static/media/js-calculator.31ff0c44f1cb37ea37c5.png",
+    "static/media/yelp-restaurant.png": "/portfolio/static/media/yelp-restaurant.e528f4acfe6a25446bc1.png",
+    "index.html": "/portfolio/index.html",
+    "main.9d0bdba3.css.map": "/portfolio/static/css/main.9d0bdba3.css.map",
+    "main.78ef799c.js.map": "/portfolio/static/js/main.78ef799c.js.map"
   },
   "entrypoints": [
     "static/css/main.9d0bdba3.css",
-    "static/js/main.f7f98ac8.js"
+    "static/js/main.78ef799c.js"
   ]
 }
