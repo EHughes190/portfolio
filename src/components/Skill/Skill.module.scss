@@ -1,0 +1,14 @@
+@use "../../base.scss" as *;
+
+.card__skill {
+    padding: 5px;
+    font-size: 2rem;
+    color: $color-white;
+  }
+
+@media screen and (min-width: $breakpoint-laptop) {
+    .card__skill {
+        font-size: 3rem;
+    }
+}
+  

@@ -1,0 +1,93 @@
+@use "../../base.scss" as *;
+
+.landingPage {
+  margin-top: 10vh;
+  height: calc(100vh - 10vh);
+  display: grid;
+  grid-template-rows: 3fr 1fr;
+}
+
+.title {
+  height: 75%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &__heading {
+    font-size: 5rem;
+  }
+
+  &__subHeading {
+    font-size: 4rem;
+  }
+}
+
+.landingPage__btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  padding-bottom: 100px;
+}
+.btn_primary {
+  width: 60%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid $accent-color;
+  border-radius: 20px;
+  padding-left: 5px;
+  color: $color-white;
+
+  &:hover {
+    border: 6px solid $accent-color;
+    //box-shadow: 0 4px 8px 0 rgb(128, 93, 14);
+
+    .arrowSpan {
+      transform: rotate(90deg);
+    }
+  }
+}
+
+.arrowSpan {
+  font-size: 3.5rem;
+  padding-left: 10px;
+  padding-right: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+@media screen and (min-width: $breakpoint-tablet) {
+  .title__heading {
+    font-size: 7rem;
+  }
+
+  .title__subHeading {
+    font-size: 3.5rem;
+  }
+
+  .btn_primary {
+    width: 30%;
+  }
+}
+@media screen and (min-width: $breakpoint-laptop) {
+  .title__heading {
+    font-size: 8rem;
+  }
+
+  .title__subHeading {
+    font-size: 5rem;
+  }
+
+  .btn_primary {
+    width: 25%;
+    font-size: 25px;
+  }
+}
+
+@media screen and (min-width: $breakpoint-laptop-lg) {
+  .btn_primary {
+    width: 20%;
+  }
+}
