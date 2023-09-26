@@ -58,16 +58,6 @@ const projects: Project[] = [
     id: "1",
   },
   {
-    title: "Food and Stuff",
-    img: FS,
-    githubUrl: "https://github.com/EHughes190/Food-and-Stuff",
-    hostedUrl: "https://e-commerce-1bb99.web.app/",
-    skills: [Skills.MUI, Skills.REACT, Skills.FIREBASE, Skills.FIGMA],
-    description:
-      "A fun, dummy e-commerce checkout experience. The project utilises commerce.js to make API calls for products, and uses React for the front-end. Material UI is used for the design.",
-    id: "2",
-  },
-  {
     title: "Punk API",
     img: PA,
     githubUrl: "https://github.com/EHughes190/Punk-API",
